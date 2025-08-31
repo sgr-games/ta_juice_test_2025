@@ -2,7 +2,10 @@
 
 ## Task Overview
 Technical Art implementation of a reward popup system based on the provided PSD design 
-[reward_popup.psd](reward_popup.psd)
+- [reward_popup.psd](reward_popup.psd)
+- [bossChestOpen.psb](bossChestOpen.psb)
+- [ItemsRawArt](ItemsRawArt)
+
 ![img.png](img.png)
 ## Requirements
 
